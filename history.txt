@@ -1,0 +1,475 @@
+    1  sudo apt install python3-pip
+    2  pyton
+    3  sudo apt upadte
+    4  sudo apt update
+    5  sudo apt install python3-pip
+    6  python
+    7  sudo apt install python3-pip
+    8  sudo apt update
+    9  sudo apt install python3-pip
+   10  pyton notebook
+   11  python notebook
+   12  jupyter notebook
+   13  python
+   14  python3
+   15  pip3 install numpy
+   16  python3
+   17  pip3 install pandas
+   18  jupyter notebook
+   19  pip3 install seaborn
+   20  git --version
+   21  sudo apt install git
+   22  clear
+   23  cd ~/Downloads
+   24  ls
+   25  cd A\ Visual\ History\ of\ Nobel\ Prize\ Winners-20190813T075356Z-001/
+   26  ls
+   27  cd A\ Visual\ History\ of\ Nobel\ Prize\ Winners/
+   28  ls
+   29  git status
+   30  echo "# neziswa" >> README.md
+   31  git init
+   32  git add README.md
+   33  git commit -m "first commit"
+   34  git config --global user.email "neziswatotti@gmail.com"
+   35  git config --global user.name "Neziswa1"
+   36  git commit -m "first commit"
+   37  git remote add origin https://github.com/Neziswa1/neziswa.git
+   38  git push -u origin master
+   39  pip3 install seaborn
+   40  jupyter notebook
+   41  sudo apt install snap
+   42  sudo apt update
+   43  sudo apt upgrade
+   44  sudo snap install code --classic
+   45  clear
+   46  sudo apt install nodejs
+   47  sudo apt install php
+   48  sudo apt install php-mysql
+   49  sudo apt install mysql
+   50  sudo apt install mysql-server
+   51  sudo apt install phpmyadmin
+   52  sudo ufw allow in "Apache Full"
+   53  sudo apt install curl
+   54  sudo mysql_secure_installation
+   55  sudo mysql
+   56  clear
+   57  sudo apt install libapache2-mod-php php-mysql
+   58  sudo nano /etc/apache2/mods-enabled/dir.conf 
+   59  sudo systemctl restart apache2
+   60  clear
+   61  sudo apt install php-cli
+   62  sudo chown -R $USER:$USER /var/www/
+   63  sudo apt install php-mbstring php-gettext
+   64  sudo phpenmod mbstring
+   65  sudo systemctl restart apache2
+   66  mysql -u root -p
+   67  crear
+   68  exit
+   69  ls
+   70  pwd
+   71  workspace.cd
+   72  ls
+   73  ls
+   74  pwd
+   75  mkdir/workspace
+   76  pwd
+   77  "mkdir workspace"
+   78  mk
+   79  mkdir workspace
+   80  cd
+   81  ls
+   82  ls
+   83  pwd
+   84  mkdir workspace
+   85  pwd
+   86  mkdir workspace
+   87  ls
+   88  pwd
+   89  mkdir workspace
+   90  cd
+   91  ls
+   92  pwd
+   93  mkdir workspace
+   94  cd workspace
+   95  ls
+   96  pwd
+   97  mkdir workspace
+   98  cd workspace
+   99  ls
+  100  touch README.md
+  101  ls
+  102  cp README.md
+  103  cp README.md CHANGELOG.md
+  104  ls
+  105  cd/CHANGELOG.md
+  106  cd/README.MD
+  107  touch excersice.md
+  108  ls
+  109  pwd
+  110  mkdir workspace
+  111  cd/workspace
+  112  ls
+  113  pwd
+  114  mkdir workspace
+  115  cd workspace
+  116  ls
+  117  touch README.md
+  118  cp README.md documents/CHANGELOG.MD
+  119  cp README.md CHANGELOG.md
+  120  ls
+  121  touch exercise.md
+  122  mv excercise.md /tmp
+  123  mv exercise.md /tmp
+  124  rm exercise.md
+  125  rm exercise.md /tmp
+  126  is
+  127  ls
+  128  touch exercise.md
+  129  ls
+  130  mv exercise.md /tmp
+  131  ls
+  132  cd /tmp
+  133  rm exercise.md
+  134  ls
+  135  cd workspace
+  136  cd ..
+  137  cd workspace
+  138  mkdir workspace
+  139  dir
+  140  pwd
+  141  ls
+  142  pwd
+  143  cd workspace
+  144  ls
+  145  touch umuzi.md recruit.md cohort.md
+  146  ls
+  147  cd recruit.md
+  148  cat recruit.md
+  149  ls
+  150  cat recruit.md
+  151  echo "Hello World" > umuzi.md
+  152  cat umuzi.md
+  153  echo "hello"
+  154  cat umuzi.md recruit.md
+  155  cat umuzi.md recruit.md cohort.md > umuzi.md
+  156  ls
+  157  cat umuzi.md recruit.md cohort.md >summary.md
+  158  ls
+  159  cat summary.md
+  160  cat umuzi.md recruit.md cohort.md >summary.md
+  161  ls
+  162  cat summary.md
+  163  echo "THE END" > summary.md
+  164  ls
+  165  cat summary.md
+  166  cat umuzi.md recruit.md cohort.md >summary.md
+  167  cat summary.md
+  168  echo "THE END" >> summary.md
+  169  cat summary.md
+  170  locate uuzi
+  171  locate umuzi
+  172  locate umuzi>> search_results.md
+  173  ls
+  174  cat search_results.md
+  175  ls
+  176  locate umuzi
+  177  locate umuzi.md
+  178  ls
+  179  locate umuzi
+  180  ls
+  181  cd ..
+  182  locate umuzi
+  183  ls
+  184  cd workspace
+  185  locate umuzi
+  186  locate umuzi.md
+  187  cd /
+  188  locate umuzi
+  189  ls
+  190  cd workspace
+  191  ls
+  192  more summary.md
+  193  less summary.md
+  194  touch Documents/pad.md
+  195  cd Documents
+  196  cd ..
+  197  cd Documents
+  198  touch pad.md
+  199  ls
+  200  cd Documents Desktop
+  201  cp Documents Desktop
+  202  cd..
+  203  cd ..
+  204  cd Desktop
+  205  touch work
+  206  ls
+  207  cat Desktop
+  208  mkdir work
+  209  cp pad.md desktop/pad_copy.md
+  210  cp pad.md pad_copy,md
+  211  cp pad.md
+  212  cp pad.md Desktop/pad_copy.md
+  213  cp pad_copy.md
+  214  touch pad.md
+  215  ls
+  216  cd ..
+  217  cp pad.md Desktop/pad_copy.md
+  218  cd Desktop
+  219  ls
+  220  pwd
+  221  cd workspace
+  222  cd ..
+  223  sodu apt install chrome
+  224  rm -r workspace
+  225  rm desktop
+  226  rm -r Desktop
+  227  rm -r Documents
+  228  rm exercise.md
+  229  ls
+  230  pwd
+  231  mkdir workspace
+  232  ls
+  233  cd workspace
+  234  touch README.md
+  235  cp README.md CHANGELOG.md
+  236  ls
+  237  touch exercise.md
+  238  ls
+  239  cd ..
+  240  mkdir /tmp
+  241  cd /tmp
+  242  mv exercise.md /tmp
+  243  cd workspace
+  244  cd ..
+  245  cd workspace
+  246  mkdir workspace
+  247  cd workspace
+  248  mv exercise.md /tmp
+  249  cd ..
+  250  ls
+  251  cd workspace
+  252  rm excercise.md /tmp
+  253  mv exercise.md /tmp
+  254  ls
+  255  cd ..
+  256  cd /tmp
+  257  ls
+  258  cd ..
+  259  cd workspace
+  260  cd /tmp
+  261  rm exercise.md
+  262  ls
+  263  cd ..
+  264  cd workspace
+  265  echo "THE END" >> summary.md
+  266  ls
+  267  cat summary.md
+  268  ls
+  269  touch umuzi.md recruit.md cohort.md
+  270  ls
+  271  echo umuzi has been great so far no bad vibes >> umuzi.md
+  272  cat umuzi.md
+  273  echo my cohort is the best cohort ever >> cohort.md
+  274  cat cohort.md
+  275  echo i fpr one think im the badest recruit >> recruit.md
+  276  cat recruit.md
+  277  cat umuzi.md recruit.md cohort.md >> summary.md   
+  278  cat summary.md
+  279  cat=summary.md
+  280  ls
+  281  nano "THE END" >> summary.md
+  282  cat summary.md
+  283  rm -r summary.md
+  284  ls
+  285  ls/
+  286  ls /
+  287  ls /etc/per1
+  288  pwd
+  289  mkdir phethi
+  290  ls
+  291  cd phethi
+  292  cd
+  293  mkdir -p phethi/ayanda
+  294  cd ayanda
+  295  ls
+  296  cd
+  297  cd home
+  298  cd /home/learner
+  299  mkdir learning_unix
+  300  cd learning_unix
+  301  cd ..
+  302  cd ../..
+  303  ls
+  304  ls /
+  305  cd /
+  306  pwd
+  307  cd~
+  308  cd ~
+  309  cd ~/learning_unin
+  310  cd ~/learning_unix
+  311  ls
+  312  cd tmp
+  313  cd ~tmp
+  314  cd ~
+  315  ls
+  316  cd ..
+  317  ls
+  318  cd ..
+  319  ls
+  320  ls tmp
+  321  python
+  322  python3
+  323  pip3 install jupyter
+  324  jupyter notebook
+  325  locate 'pdf'
+  326  nano my_bio.md
+  327  cat
+  328  nano my_bio.md
+  329  cat my_bio.md
+  330  git cocacola
+  331  git init coca cola
+  332  mkdir git-basic-exercise
+  333  cd
+  334  cd git-basic-exercise
+  335  ls -a
+  336  git init
+  337  ls -a
+  338  git status
+  339  touch README.MD
+  340  ls -a
+  341  mkdir git-basic-exercise
+  342  ls -a
+  343  git init
+  344  ls -a
+  345  git status
+  346  touch README.md
+  347  ls -a
+  348  git status
+  349  git rm -- README.MD
+  350  git rm README.MD
+  351  git rm README.md
+  352  git rm -- README.md
+  353  rm README.md
+  354  git reset HEAD <README.md>
+  355  git reset HEAD <README.md>...
+  356  git reset HEAD <README.MD>...
+  357  git reset <README.MD>...
+  358  mkdir git-basic-exercise
+  359  ls
+  360  ls -a
+  361  git init
+  362  ls -a
+  363  git status
+  364  touch README.md
+  365  ls -a
+  366  git status
+  367  git log
+  368  git add README.MD
+  369  git-basic-exercise
+  370  mkdir git-basic-exercise
+  371  ls -a
+  372  git init
+  373  ls-a
+  374  git status
+  375  touch README.md
+  376  git status
+  377  git log
+  378  git add README.md
+  379  git status
+  380  git rm README.md
+  381  gt status
+  382  git status
+  383  add README.md
+  384  git add README.md
+  385  git commit -m "initial commit"
+  386  git log
+  387  git commit b8f9d02f6d46a45264586f773c2ab734246af11a
+  388  q
+  389  git checkout
+  390  cat README.MD
+  391  cat README.md
+  392  git checkout master
+  393  cat README.md
+  394  git checkout
+  395  git commit -m "initial commit"
+  396  git add README.md
+  397  git commit -m "initial commit"
+  398  cat README.md
+  399  git stats
+  400  git status
+  401  git commit -m "second commit"
+  402  git remote add origin https://github.com/phethi10/git-basic-exercises.git
+  403  git push -u origin master
+  404  ls
+  405  pwd
+  406  mv phetehile.txt /home/recruit/Desktop
+  407  mv phethehile.txt /home/recruit/Desktop
+  408  cd Desktop
+  409  cd linux_exercise
+  410  ls
+  411  git init
+  412  git add .
+  413  git commit -m "first submission"
+  414  git remote add origin https://github.com/phethi10/linux-_exercise.git
+  415  git push -u origin master
+  416  mkdir git-basic-excercises
+  417  cd
+  418  cd ..
+  419  cd git-basic-excercises
+  420  cd
+  421  cd git-basic-excercises
+  422  ls -a
+  423  gir rm git-basic-excercises
+  424  cd
+  425  mkdir git-basic-exercise
+  426  cd git-basic-exercise
+  427  git rm  git-basic-exercise
+  428  cd
+  429  cd git-basic-exercise
+  430  ls -a
+  431  cd
+  432  mkdir git-basic-exercise
+  433  cd
+  434  ls-a
+  435  ls -a
+  436  cd  git-basic-exercise
+  437  ls -a
+  438  git init
+  439  ls -a
+  440  git status
+  441  touch README.md
+  442  ls -a
+  443  git status
+  444  git log
+  445  git add README.md
+  446  git status
+  447  git rm --cached README.md
+  448  git add README.md
+  449  git commit -m "initial commit"
+  450  git log 
+  451  nano README.md
+  452  cat README.md
+  453  git status
+  454  git add README.md
+  455  git commit -m "second commit"
+  456  cat README.md
+  457  git status
+  458  git add RAEDME.md
+  459  git add README.md
+  460  git commit -m "third commit"
+  461  nano README.md
+  462  git add README.md
+  463  git commit -m "third commit"
+  464  git log
+  465  git checkout 4964fa3
+  466  cat README .md
+  467  cat README.md
+  468  git log
+  469  git checkout 559f312debc0e3b7c8664ec851aefd777daaf4f5
+  470  cat README.md
+  471  git checkout master
+  472  cat README.md
+  473  git branch
+  474  git log
+  475  history > history.txt
