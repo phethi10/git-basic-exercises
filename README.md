@@ -1,1 +1,1 @@
-i am a star.
+hot chips
